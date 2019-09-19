@@ -40,5 +40,17 @@ class LabTest2UITests: XCTestCase {
                 return -1
             }        
     }
-
+ func infection_rate()
+ {
+    let var1 = day.count
+while(var1 == 1)
+{
+    let infectrate = 5
+    for(int i = var1 ; i<=100; i++)
+    {
+        infectrate = infecrate+5;
+    }
+    }
+    
+        }
 }
